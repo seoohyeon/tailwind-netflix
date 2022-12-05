@@ -1,3 +1,1 @@
-# tailwind-netflix
-
-## tailwind로 netflix 페이지 만들어보기
+# tailwind로 netflix 페이지 만들어보기
