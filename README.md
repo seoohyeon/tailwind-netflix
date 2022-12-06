@@ -1,2 +1,3 @@
 # tailwind로 netflix 페이지 만들어보기
-![image](https://user-images.githubusercontent.com/38703262/205783675-47da4e30-9bf7-46b8-b666-09a0748c4963.png)
+![image](https://user-images.githubusercontent.com/38703262/205843569-1e9c9490-06be-4e19-b540-6490476bd1a8.png)
+
